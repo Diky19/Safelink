@@ -1,0 +1,2 @@
+# Safelink
+Ini adalah safelinkku
